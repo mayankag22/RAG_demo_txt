@@ -1,0 +1,6 @@
+Policy: Wire Transfer Policy v2.3
+Section 4.2 - Approval Thresholds
+
+Amounts up to $25,000 can be processed without manager approval for verified customers.
+Amounts between $25,000 and $100,000 require branch manager approval.
+Amounts above $100,000 require regional director approval.

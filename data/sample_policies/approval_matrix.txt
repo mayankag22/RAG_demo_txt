@@ -1,0 +1,6 @@
+Policy: Approval Matrix v1.1
+Section 2.1 - Transaction Limits
+
+Tellers may approve transactions up to $10,000.
+Branch managers may approve transactions up to $100,000.
+Regional directors may approve transactions above $100,000.
